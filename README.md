@@ -21,4 +21,6 @@ ___
 %END
 ```
 ___
-* Main menu:
+* Main menu:  
+  
+![Main menu](menu.png)
